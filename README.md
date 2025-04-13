@@ -1,12 +1,6 @@
 
 #  Laptop Database Analysis
 This analysis provided a detailed examination of over 1,200 laptop configurations across 19 companies, aiming to uncover how hardware specifications and brand strategies influence pricing and market presence. With a combined total price exceeding $76 million, the dataset offered a substantial basis for understanding broader trends in the laptop market.
-mkdir images
-touch images/.gitkeep
-git add images/.gitkeep
-git commit -m "Add images folder with .gitkeep"
-git push
-
 The findings reveal a clear divide between high-volume, mid-market brands and low-volume, premium-focused ones. Dell, Lenovo, and HP emerged as the top contributors in both configuration count and total revenue. Their broad product ranges suggest a strategy of covering multiple price tiers, offering flexibility for a wide spectrum of consumers. In contrast, brands like Apple and Razer, despite offering fewer models, show significantly higher average prices—an indication of a deliberate focus on high-end segments where performance, design, and brand equity justify elevated pricing.
 
 Hardware components played a defining role in price differentiation. Laptops featuring dedicated GPUs commanded a substantial premium over those with integrated graphics, consistent with their positioning in gaming, creative, and performance-intensive use cases. Similarly, RAM capacity had a strong positive correlation with pricing. Systems configured with 32GB or 64GB of RAM were priced well above the average, while those with 4GB or 8GB were more prevalent among entry-level offerings. These patterns highlight how technical specifications directly inform product positioning and pricing power.
