@@ -5,7 +5,7 @@ The findings reveal a clear divide between high-volume, mid-market brands and lo
 
 
 
-![image alt](https://github.com/TI-jpg/Laptop_database_project/blob/d54c50ef73e27ae96fc60ee3d2c6baa386eff669/Dashboard.pdf)
+![image alt](https://github.com/TI-jpg/Laptop_database_project/blob/main/Dashboard.jpg?raw=true)
 
 
 
