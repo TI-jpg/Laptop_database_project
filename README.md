@@ -15,7 +15,7 @@ The findings reveal a clear divide between high-volume, mid-market brands and lo
 
 
 Hardware components played a defining role in price differentiation. Laptops featuring dedicated GPUs commanded a substantial premium over those with integrated graphics, consistent with their positioning in gaming, creative, and performance-intensive use cases. Similarly, RAM capacity had a strong positive correlation with pricing. Systems configured with 32GB or 64GB of RAM were priced well above the average, while those with 4GB or 8GB were more prevalent among entry-level offerings. These patterns highlight how technical specifications directly inform product positioning and pricing power.
-#  Used FUnctions
+#  Used Functions
 The SQL layer behind this analysis was thoughtfully constructed using CTEs to manage logical complexity in a modular way. Key transformations involved grouping and aggregation functions to surface company-level and spec-level metrics, along with CASE logic to classify GPUs and standardize hardware categories. By avoiding joins and working with a single structured dataset, the queries maintained efficiency while ensuring data clarity. This approach made it straightforward to feed clean, meaningful summaries into Power BI, where the resulting dashboards offered strong visual narratives of the underlying trends.
 # Conclusion
 Overall, the analysis illustrates how brand strategy, hardware choices, and market segmentation interact to shape pricing outcomes in the laptop market. It also demonstrates how thoughtful data preparation and focused SQL logic can drive clear, business-relevant insights from raw configuration data.
